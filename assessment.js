@@ -178,24 +178,6 @@ var answer = "";
 }
 
 
-
-// 	if(temperature > 80) {
-// 		if(humidity > 40) {
-// 			answer = "I'm all sweat";
-// 		} else if(humidity < 40 && cloudiness < 20) {
-// 				answer = "I'm literally in the desert"
-// 		}
-// 	} else if (temperature < 40 && cloudiness > 60) {
-// 			answer = "I have icecicles";
-// 	} else if(temperature > 80 || humidity > 50 || cloudiness > 50) {
-// 		answer = "Hmm, probably not";
-// 	} else {
-// 		answer = "I love outside";
-// 	}
-// 	return answer;
-// }
-
-
 // #16 Create a function called callerBack that takes in a function (holla) and a string parameter(back) and invokes it(holla) with the argument string(back) + ' back'."
 // example - If I call you with 'Give it' you should invoke holla with 'Give it back'
 
